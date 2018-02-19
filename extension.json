@@ -12,7 +12,7 @@
       "path": "homepage",
       "payload": {
         "include-repo": {
-          "name": "cc-customisations"
+          "name": "enhanced-activity-stream"
         },
         "include-files": [
           "core.js",
